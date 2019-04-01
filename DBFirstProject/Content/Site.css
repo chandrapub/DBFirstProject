@@ -22,3 +22,7 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.list-of-item {
+    font-size: 40px;
+}
